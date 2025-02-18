@@ -19,6 +19,7 @@ public class Smallestof3no {
         else {
             System.out.print("Smallest number is: " + c);
         }
+        sc.close();
 }
         
     
