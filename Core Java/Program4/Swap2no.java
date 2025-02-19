@@ -18,6 +18,7 @@ public class Swap2no {
         b = a^b;
         a=a^b;
         System.out.println("After swapping " + "a = "+a+" b = "+b);
+        sc.close();
     }
     
 }
