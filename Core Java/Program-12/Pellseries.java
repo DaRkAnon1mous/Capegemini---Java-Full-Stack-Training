@@ -73,7 +73,7 @@ public class Pellseries {
             return;
         }
         int p3=0;
-        for (int a =1;a<=i;a++){
+        for (int a =3;a<=i;a++){
             p3=(2*p2)+p1;
             p1=p2;
             p2=p3;
