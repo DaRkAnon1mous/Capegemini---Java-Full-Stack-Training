@@ -6,14 +6,17 @@ import java.util.Calendar;
 
 public class Expirydate {
     public static void main(String[] args){
-        SimpleDateFormat sd = new SimpleDateFormat("dd/MM/yyyy");
+        
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Manufacturing Date");
         String s = sc.nextLine();
+        try{
+            SimpleDateFormat sd = new SimpleDateFormat("dd/MM/yyyy");
+            sd.setLenient(false);
+        Date d = sd.parse(s);
         System.out.println("Enter the Month");
         int m = sc.nextInt();
-        try{
-        Date d = sd.parse(s);
+        sc.nextLine();
         Calendar c = Calendar.getInstance();
         c.setTime(d);
         c.add(Calendar.MONTH,m);
