@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Code {
     public static void main(String args[])
     {
@@ -27,7 +28,7 @@ public class Code {
     int s6 = s3*s4*650;
     System.out.println(s1+" your booking is confirmed and the total cost is "+ (s5+s6));
     
-    
+
     
     }
 
