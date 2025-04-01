@@ -1,0 +1,13 @@
+## Question
+![image](https://github.com/user-attachments/assets/0143dae8-05b9-4d26-bb46-5a77af727dd2)
+![image](https://github.com/user-attachments/assets/968570cf-2f87-477c-9672-838e696611bb)
+![image](https://github.com/user-attachments/assets/ec0d993b-769c-463e-9b1e-f0b81bb482fc)
+![image](https://github.com/user-attachments/assets/6c6422d9-94ae-41bd-9498-e75385d62440)
+![image](https://github.com/user-attachments/assets/42f70fdd-0b66-4b2c-a3fa-fdec32519900)
+![image](https://github.com/user-attachments/assets/d313323e-44f4-4f39-aac7-79a02e9c4336)
+![image](https://github.com/user-attachments/assets/41352c27-8180-495c-900c-2577de0be752)
+![image](https://github.com/user-attachments/assets/43908e3c-e17b-4b4f-8a13-b7d494014664)
+![image](https://github.com/user-attachments/assets/2a8641a6-e953-47db-8b6a-b82555a27e93)
+![image](https://github.com/user-attachments/assets/9b6bcb9f-0d74-4c3d-a7e8-fb0a7952ac65)
+![image](https://github.com/user-attachments/assets/529c0077-52f8-409c-a536-5190b54f00a1)
+![image](https://github.com/user-attachments/assets/0e83d0b2-e91c-401d-bb53-821cfec2ef00)
